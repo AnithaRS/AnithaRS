@@ -11,6 +11,7 @@ my skills by building projects. I enjoy learning and working with teams.
 
 ## Technologies & Skills 🛠️
 - **Backend**: Java, JDBC, Spring Boot, Spring Security (JWT)
+  - **Frontend**: HTML, CSS, Angular
 - **Database**: MySQL
 - **Tools**: Git, GitHub, Maven, Postman, VS Code
 
