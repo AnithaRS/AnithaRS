@@ -20,7 +20,6 @@ my skills by building projects. I enjoy learning and working with teams.
 
 ## Contact 📫
 Feel free to reach out to me via:
-- LinkedIn: [linkedin.com/in/anithajavadeveloper](https://www.linkedin.com/in/anithajavadeveloper/)
 - Email: anitha200421@gmail.com
 
 ---
