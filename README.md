@@ -21,6 +21,7 @@ my skills by building projects. I enjoy learning and working with teams.
 ## Contact 📫
 Feel free to reach out to me via:
 - Email: anitha200421@gmail.com
+- Phone Number: +91 7339491996
 
 ---
 
